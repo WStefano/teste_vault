@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "b24e67a3a0a16fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e97c831aa1008462",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a907d59e7d01063",
+    "type": "split",
+    "children": [
+      {
+        "id": "be74959d66dbfe5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a38dc7c14e1b33f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6a351565731b78c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1ef96b341ece111",
+    "type": "split",
+    "children": [
+      {
+        "id": "b098389d4f82bc81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6485300866a223a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Nosso TCC.md",
+    "tecnologias utilizadas.md",
+    "TODO/things to do amadeu.md",
+    "TODO/things to do vidor.md",
+    "TODO/things to do salandin.md",
+    "O que temos pronto.md",
+    "things to do salandin.md",
+    "things to do amadeu.md",
+    "things to do vidor.md",
+    "Untitled.md"
+  ]
+}
