@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "tecnologias utilizadas.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tecnologias utilizadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Nosso TCC.md",
     "tecnologias utilizadas.md",
+    "Nosso TCC.md",
     "TODO/things to do amadeu.md",
     "TODO/things to do vidor.md",
     "TODO/things to do salandin.md",
