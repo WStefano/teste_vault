@@ -3,8 +3,6 @@ BackEnd:
 - Elixir/Phoenix [[things to do salandin#^58b331]] ^67a19e
 - Python??
 - R?? 
-- PHP, NÃO.
-- C# NÃO
 
 FrontEnd:
 - ???? [[things to do amadeu]]
