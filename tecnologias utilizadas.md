@@ -3,6 +3,8 @@ BackEnd:
 - Elixir/Phoenix [[things to do salandin#^58b331]] ^67a19e
 - Python??
 - R?? 
+- PHP, NÃO.
+- Não sei utilizar Visual Studio e a TCC é T(to) C(comendo)C(CU DE CURIOSO)
 
 FrontEnd:
 - ???? [[things to do amadeu]]
