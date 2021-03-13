@@ -13,5 +13,5 @@ O Frontend será feito por [[things to do amadeu]]
 O Murilo é a parte teorica e o que ele tiver tempo [[things to do vidor]]
 
 - Outras anotações:
-- [[O que temos pronto]]
-- [[tecnologias utilizadas]]
+- [[O Que Temos Pronto]]
+- [[Tecnologias Utilizadas]]
