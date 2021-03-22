@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nosso TCC.md",
+            "file": "TODO/things to do amadeu.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nosso TCC.md",
+                "file": "TODO/things to do amadeu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,13 +86,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "TODO/things to do amadeu.md",
+    "TODO/things to do salandin.md",
+    "TODO/things to do vidor.md",
     "Nosso TCC.md",
     "O Que Temos Pronto.md",
     "Tecnologias Utilizadas.md",
-    "TODO/things to do amadeu.md",
     "O que temos pronto.md",
-    "TODO/things to do salandin.md",
-    "TODO/things to do vidor.md",
     "tecnologias utilizadas.md",
     "things to do salandin.md",
     "things to do amadeu.md"
