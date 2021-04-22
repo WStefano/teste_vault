@@ -1,0 +1,8 @@
+- [[things to do salandin#^4fe6d4]]
+	-  https://markofthelam.com/blog/postgres-rpi/
+	-   https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc
+- [[things to do vidor#^dccf0f]]
+	-  https://www.cursoemvideo.com/course/curso-de-git-e-github/ 
+	- https://github.com/DanielHe4rt/git4noobs 
+- [[things to do amadeu#^304b40]]
+	-  https://github.com/ThiagoDellaNoce/javascript4noobs

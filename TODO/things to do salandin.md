@@ -16,6 +16,8 @@
    - Fazer com Elixir/Phoenix [[Tecnologias Utilizadas#^67a19e]]
    - Postgres(with docker) [[Tecnologias Utilizadas#^bc5934]]&&[[Tecnologias Utilizadas#^5d4a35]]
    
-5. Elixir?Phoenix? Company - __TODO__
-   - Fazer com Python/Flask || Django ^7e156a
+5. Elixir?Phoenix? Company - __DONE__ ^4fe6d4
+   - Fazer com Python/Flask [[Tecnologias Utilizadas#^6f2ed6]]^7e156a
    - Postgres(with docker) [[Tecnologias Utilizadas#^bc5934]]&&[[Tecnologias Utilizadas#^5d4a35]]
+   
+   Links  ^0008ca
